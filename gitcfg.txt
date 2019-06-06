@@ -1,0 +1,6 @@
+#这是一个远程库配置文件，不能删除
+#格式：远程库=远程地址
+#实例：o1=https://github.com/ocxz/day6
+#推荐使用ssh方式（可免密码推送）
+#o1=git@github.com:ocxz/day7.git 
+o1=git@github.com:ocxz/day56.git 
